@@ -1,0 +1,9 @@
+INSERT INTO `tb_message` VALUES (1, 1, 0, '您有新的留言消息', 4, NULL, '2019-4-6 03:50:38', '2019-4-6 03:50:38', 0, 1);
+INSERT INTO `tb_message` VALUES (2, 1, 1, 'wjc发表了评论', NULL, 8, '2019-4-6 03:51:25', '2019-4-6 03:51:25', 0, 1);
+INSERT INTO `tb_message` VALUES (3, 1, 2, '您关注的博主admin发表了一篇新文章，快去看看吧', NULL, NULL, '2019-4-6 04:23:03', '2019-4-6 04:23:03', 1, 0);
+INSERT INTO `tb_message` VALUES (4, 2, 2, '您关注的博主admin发表了一篇新文章，快去看看吧', NULL, 10, '2019-4-6 04:29:06', '2019-4-6 04:29:06', 0, 1);
+INSERT INTO `tb_message` VALUES (5, 1, 3, 'admin回复了您一条消息：啦啦', NULL, 5, '2019-4-6 04:31:13', '2019-4-6 04:31:13', 0, 1);
+INSERT INTO `tb_message` VALUES (6, 2, 2, '您关注的博主admin发表了一篇新文章，快去看看吧', NULL, 13, '2019-4-13 07:13:59', '2019-4-13 07:13:59', 0, 0);
+INSERT INTO `tb_message` VALUES (7, 2, 2, '您关注的博主admin发表了一篇新文章，快去看看吧', NULL, 14, '2019-4-14 02:08:12', '2019-4-14 02:08:12', 0, 0);
+INSERT INTO `tb_message` VALUES (8, 2, 2, '您关注的博主admin发表了一篇新文章，快去看看吧', NULL, 15, '2019-4-14 02:12:55', '2019-4-14 02:12:55', 0, 0);
+INSERT INTO `tb_message` VALUES (9, 1, 3, 'admin回复了您一条消息：en', NULL, 5, '2019-4-25 01:22:29', '2019-4-25 01:22:29', 0, 0);
